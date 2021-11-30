@@ -1,0 +1,4 @@
+name = "adventofcode2015"
+uuid = "72298ed9-7f74-45b0-af2a-a78fd51c68e1"
+authors = ["Colin Fuller <cjfuller@gmail.com>"]
+version = "0.1.0"
